@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "name": "LG Television",
+            "price": "$2000",
+            "size": "20 inches",
+            "id": 1
+        },
+        {
+            "name": "playstation",
+            "price": "$200",
+            "size": "5",
+            "id": 2
+        },
+        {
+            "name": "Rechargeable Lamp",
+            "price": "$70",
+            "size": "18",
+            "id": 3
+        },
+        {
+            "name": "Air conditional",
+            "price": "$120",
+            "size": "1.5hp",
+            "id": 4
+        },
+        {
+            "name": "Blender",
+            "price": "$40",
+            "size": "2mah",
+            "id": 5
+        },
+        {
+            "name": "LG DVD",
+            "price": "$2000",
+            "size": "20 inches",
+            "id": 7
+        }
+    ]
+}
